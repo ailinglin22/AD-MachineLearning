@@ -5,7 +5,7 @@ Clinical trials focusing on therapeutic candidates that modify β-amyloid (Aβ) 
 ## Prerequisites
 - [Python3](https://www.python.org/)
 - [Numpy](https://numpy.org/)
-- [scikit learn] (https://scikit-learn.org/)
+- [scikit learn](https://scikit-learn.org)
 - [Matplotlib](https://matplotlib.org/)
-- [JMP] (https://www.jmp.com/)
+- [JMP](https://www.jmp.com)
 ## Workflow
