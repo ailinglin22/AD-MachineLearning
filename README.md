@@ -9,3 +9,4 @@ Clinical trials focusing on therapeutic candidates that modify β-amyloid (Aβ) 
 - [Matplotlib](https://matplotlib.org/)
 - [JMP](https://www.jmp.com)
 ## Workflow
+![](https://github.com/linbrainlab/machinelearning/blob/master/imgs/workflow.png)
