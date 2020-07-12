@@ -12,4 +12,5 @@ Clinical trials focusing on therapeutic candidates that modify β-amyloid (Aβ) 
 ![](https://github.com/linbrainlab/machinelearning/blob/master/imgs/workflow.png)
 
 ## Biomarkers
+The biomarkers used in our project.
 ![](https://github.com/linbrainlab/machinelearning/blob/master/imgs/biomarks.png)
